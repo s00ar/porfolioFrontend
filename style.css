@@ -1,0 +1,91 @@
+html {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    text-decoration: none;
+}
+
+.nav {
+    position: fixed;
+    z-index: 1;
+}
+
+.titulo_texto {
+    display: inline-block;
+    margin-top: 3rem;
+    text-shadow: 1px 1px #adabab;
+    text-align: center;
+    color: black;
+    font-size: 3rem;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+a {
+    text-decoration: none;
+}
+
+.spacer {
+    padding-top: 5rem;
+}
+
+.lightBlue {
+    background-color: #CDE6F5;
+}
+
+.medBlue {
+    background-color: #87919E;
+}
+
+.darkBlue {
+    background-color: #707078;
+}
+
+.nav_links_element {
+    height: 2vw;
+}
+
+.contacto {
+    margin-top: 2vw;
+}
+
+.contacto_elemento {
+    height: 1.8rem;
+}
+
+.contacto_imagen {
+    max-width: 16%;
+}
+
+.aside {
+    display: flexbox;
+    position: absolute;
+    margin-right: 80%;
+    margin-left: 0%;
+    margin-top: 0px;
+    width: 29%;
+    z-index: -1;
+}
+
+.contacto_texto {
+    margin-top: 2vw;
+}
+
+.certificacion {
+    float: left;
+    height: 6vw;
+    margin-top: -10%;
+    margin-left: 80%;
+}
+
+.contacto_imagen {
+    height: 5%;
+    width: 15%;
+}
+
+.footer {
+    position: fixed;
+    margin-bottom: 0px;
+    bottom: 0px;
+    margin-left: 0%;
+    width: 100%;
+    background-color: white;
+}

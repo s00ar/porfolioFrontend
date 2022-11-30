@@ -1,0 +1,14 @@
+Buenas Profe Seba. Le incluyo la última versión
+del curriculum incorporando lo aprendido con
+bootstrap. 
+
+Queria comentarle que sigo con el problema que le 
+habia comentado en la última clase de no poder 
+lograr que el navbar de bootstrap sea del todo 
+responsive. Quizas ahora que puede ver el código 
+me pueda indicar cual es el problema y como 
+solucionarlo. Desde ya muchas gracias por su 
+tiempo y sus conocimientos. Sus clases fueron 
+muy gratificantes e instructivas en extremo. 
+
+Saludos enormes, Santiago.
